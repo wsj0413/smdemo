@@ -110,7 +110,7 @@
         <dependency>
             <groupId>com.google.code.simple-spring-memcached</groupId>
             <artifactId>spring-cache</artifactId>
-            <version>3.6.1</version>
+            <version>4.0.0</version>
         </dependency>
 
         <!-- 模板 -->
